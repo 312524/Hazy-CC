@@ -1,2 +1,3 @@
 # Hazy-CC
-The crowd counting benchmark datasets specially for hazy-weather scene in our work would be released after the peer-review process. 
+Dataset: [BaiduNetdisk](超链接 "https://pan.baidu.com/s/1UFl9lxcmU-lyhmOYgH-qvA?pwd=213k")
+
