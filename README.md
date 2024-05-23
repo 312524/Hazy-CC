@@ -22,15 +22,15 @@ where (x1, y1) and (x2, y2) correspond to the coordinates of top-left corner and
 
 
 If you find Hazy-ShanghaiTechRGBD and Hazy-JHU datasets useful, please consider cite our following work:
-'''
+```
 @article{Kong2023HazyCC,
-title={Direction-aware attention aggregation for single-stage hazy-weather crowd counting},
-author={Weihang Kong, Jienan Shen , He Li, Jiayu Liu, Junge Zhang},
-journal={Expert Systems with Applications},
-year={2023},
-volume={225}
-pages={120088}
+ title={Direction-aware attention aggregation for single-stage hazy-weather crowd counting},
+ author={Weihang Kong, Jienan Shen , He Li, Jiayu Liu, Junge Zhang},
+ journal={Expert Systems with Applications},
+ year={2023},
+ volume={225}
+ pages={120088}
 }
-'''
+```
 
 
