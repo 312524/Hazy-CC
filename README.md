@@ -1,5 +1,5 @@
 # Hazy-CC
-Dataset: [[BaiduNetdisk]]()[[Google]]()
+Dataset: [[BaiduNetdisk]](https://pan.baidu.com/s/1N7cCJ3x1d7SeQnkFMLiLuw?pwd=8ox4)[[Google]]()
 
 Hazy-JHU：
 Samples in this Hazy-JHU dataset are selected from JHU-CROWD++，whose whose weather conditions label is fog/haze. This hazy-weather dataset belongs to the real-world one, and the train-validation-test is still following the original spilt of JHU-CROWD++.
